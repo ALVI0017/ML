@@ -1,0 +1,7 @@
+Goal is to detect --> sonar data of rock and metal to detect mine 
+
+1. First we will collect sonar data 
+2. Preprossess the data
+3. Split the data
+4. Logestic regression model as this is a binary classification model and this is supervised learning model
+5. Evaluation method
